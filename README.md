@@ -1,1 +1,1 @@
-# gitops-docker-image
+# eks-example
